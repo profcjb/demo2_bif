@@ -1,2 +1,2 @@
-abc
-hif
+* abc
+* hif
